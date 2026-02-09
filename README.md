@@ -1,2 +1,2 @@
 # FUTURE_CS_03
-Work done here is tasks that i have done that have been given to me by future interns. This is the third task i have completed
+This repository contains the task i had done on API Security risk analysis peformed on the JSONPlaceholder. The objective was to identify common API security risks such as unauthenticated endpoints, excesssive data exposure and weak authentication controls using safe ethical testing methods. This was done using Postman and browser developer tools by inspecting API requests and headers without doing any unauthorized activities.
